@@ -15,6 +15,8 @@
 <img align="left" alt="rails" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"  width="26px" /> 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet2k&layout=compact&hide=html" alt="manjeet2k" />
 
@@ -29,7 +31,7 @@
 
 <hr/>
 
-<p align="center">*Connect to me on other sites !*</p>
+<p align="center" style="font-style: italic">Connect to me on other sites !</p>
 
 <p align="center">
   <a href="https://fb.com/m4nj1t" target="blank">
