@@ -36,9 +36,6 @@
     </a>
   </p>
 </p>
-
-<br/>
-
 <hr/>
 
 <p align="center"><i>Connect to me on other platforms...</i></p>
