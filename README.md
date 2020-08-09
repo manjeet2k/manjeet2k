@@ -6,32 +6,35 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="c" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width="26px" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width="26px" /> 
-<img align="left" alt="rails" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"  width="26px" /> 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Visual Studio Code" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="HTML5" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="center" alt="CSS3" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="c" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width="29px" />
+<img align="center" alt="MySQL" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="center" alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width="29px" /> 
+<img align="center" alt="rails" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"  width="29px" /> 
+<img align="center" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet2k&layout=compact&hide=html" alt="manjeet2k" />
-
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjeet2k&show_icons=true" alt="manjeet2k" />
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
+  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)">
+    <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
+  </a>
 </p>
 
 <br/>
 
 <hr/>
 
-<p align="center" style="font-style: italic">Connect to me on other sites !</p>
+<p align="center">*Connect to me on other sites !*</p>
 
 <p align="center">
   <a href="https://fb.com/m4nj1t" target="blank">
