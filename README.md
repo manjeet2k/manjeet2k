@@ -23,39 +23,39 @@
 <br/><br/>
 <p>
   <p align="left">
-    <p align="left"> 
+    <p> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet2k&layout=compact&hide=html" alt="manjeet2k" />
     </p>
-    <p align="right">
+    <p>
       <img src="https://github-readme-stats.vercel.app/api?username=manjeet2k&show_icons=true" alt="manjeet2k" />
     </p>
   </p>
   <p align="right">
-  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)">
-    <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
-  </a>
-</p>
+    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)">
+      <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
+    </a>
+  </p>
 </p>
 
 <br/>
 
 <hr/>
 
-<p align="center">*Connect to me on other sites !*</p>
+<p align="center"><i>Connect to me on other sites !</i></p>
 
 <p align="center">
   <a href="https://fb.com/m4nj1t" target="blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="m4nj1t"  width="30px" />
-  </a><span></span>
+  </a><span> </span>
   <a href="https://instagram.com/me.manjeet" target="blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me.manjeet"  width="30px" />
-  </a>
+  </a><span> </span>
   <a href="https://www.linkedin.com/in/manjeet-singh-4967931a4/" target="blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Manjeet Singh"  width="30px" />
-  </a>
+  </a><span> </span>
   <a href="https://steamcommunity.com/id/yewkiller/" target="blank">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="yewkiller"  width="30px" />
-  </a>
+  </a><span> </span>
 </p>
 
 <br/>
