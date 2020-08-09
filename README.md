@@ -22,11 +22,16 @@
 
 ### Connect
 
-[Steam Profile Link](https://steamcommunity.com/id/yewkiller/) | [facebook](https://www.facebook.com/m4nj1t) | [Instagram](https://www.instagram.com/me.manjeet/) | [Spotify Playlist](https://open.spotify.com/playlist/1oaCoDJ7x4qqFVbmXumk8q?si=PjqcS2-vT3SAstiXAmwFXA)
+<p align="center">
+  <a href="https://fb.com/m4nj1t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="m4nj1t" height="30" width="30" /></a>
+  <a href="https://instagram.com/me.manjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me.manjeet" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/manjeet-singh-4967931a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Manjeet Singh" height="30" width="30" /></a>
+  <a href="https://steamcommunity.com/id/yewkiller/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="yewkiller" height="30" width="30" /></a>
+</p>
 
 <br/>
 <p>
-  <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
+  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
 </p>
 
 <br/>
