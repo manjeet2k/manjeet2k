@@ -22,18 +22,19 @@
 
 <br/><br/>
 <p>
-  <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet2k&layout=compact&hide=html" alt="manjeet2k" />
+  <p align="left">
+    <p align="left"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet2k&layout=compact&hide=html" alt="manjeet2k" />
+    </p>
+    <p align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=manjeet2k&show_icons=true" alt="manjeet2k" />
+    </p>
   </p>
   <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=manjeet2k&show_icons=true" alt="manjeet2k" />
-  </p>
-</p>
-
-<p align="center">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&redirect=true)">
     <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
   </a>
+</p>
 </p>
 
 <br/>
@@ -45,7 +46,7 @@
 <p align="center">
   <a href="https://fb.com/m4nj1t" target="blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="m4nj1t"  width="30px" />
-  </a>
+  </a><span></span>
   <a href="https://instagram.com/me.manjeet" target="blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me.manjeet"  width="30px" />
   </a>
