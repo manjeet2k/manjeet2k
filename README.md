@@ -14,11 +14,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=manjeet2k&show_icons=true" alt="manjeet2k" />
     </p>
   </p>
-  <p align="left">
-    <a target="_blank" href="https://open.spotify.com/playlist/1oaCoDJ7x4qqFVbmXumk8q?si=89AkG5p9R4muB9nd2v_tag">
-      <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=21kjrorsk352ibi23pbhjcbaa&cover_image=false" />
-    </a>
-  </p>
 </p>
 <hr/>
 
