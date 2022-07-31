@@ -1,6 +1,6 @@
 # Hi, I'm Manjeet 👋:man_technologist:
 
-- 🔭  I’m currently working on Ruby on Rails.
+- 🔭  I’m currently working on React.
 - 🌱  I’m currently teaching myself Full Stack Web Development.
 - :video_game:  CSGO is :heart:
 
