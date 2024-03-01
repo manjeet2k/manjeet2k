@@ -1,4 +1,4 @@
-# Hi, I'm Manjeet 👋:man_technologist:
+# Hi, I'm Manjeet 👋
 
 - 🔭  I’m currently working on React.
 - 🌱  I’m currently teaching myself Full Stack Web Development.
