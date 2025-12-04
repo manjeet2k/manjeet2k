@@ -4,7 +4,7 @@
 - 🌱  I’m currently teaching myself Full Stack Web Development.
 - :video_game:  CSGO is :heart:
 
-<br/><br/>
+<!-- <br/><br/>
 <p>
   <p align="left">
     <p> 
@@ -34,7 +34,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<br/>
+<br/> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manjeet2k" alt="manjeet2k" /> </p>
 
